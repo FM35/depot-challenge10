@@ -1,0 +1,96 @@
+
+body {
+color:black;
+background-image:url(Map.jpg);
+}
+
+
+#cercle
+{
+background-color:black; 
+opacity:1;
+height:1000px; 
+width:1000px; 
+margin:auto; 
+border-radius:1000px; 
+border:10px solid grey;  
+margin-top: 20px;
+}
+
+#panneau
+{
+background-color:grey;  
+height:60px;
+width:110px;
+margin-left:auto; 
+margin-right:auto;
+margin-top:300px;
+border-radius:5px;
+color:red;
+font-size:50px;
+text-align:center;
+}
+
+
+#panneau2
+{
+background-color:grey;  
+height:60px;
+width:800px;
+margin-left:auto; 
+margin-right:auto;
+margin-top:30px;
+border-radius:5px;
+color:white;
+font-size:50px;
+text-align:center;
+opacity:1;
+
+}
+
+
+
+#boutons_réponses
+{
+margin:auto;
+margin-top: 200px;
+margin-bottom: 50px;
+width:100%;
+text-align:center;
+/*background-color: red;*/
+}
+
+.button
+{
+background:#F94D58;
+opacity:1%;
+padding:2%;
+font-size:large;
+border-radius:10px;
+font-family:Verdana;
+width:15%
+}
+
+#bouton_défilement
+{
+margin:auto;
+width:500px;
+text-align:center;
+/*background-color: red;*/
+}
+
+
+.button_suite
+{
+background:#20dcd7;
+opacity:1;
+padding:2%;
+font-size:large;
+border-radius:10px;
+font-family:Verdana;
+width:25%;
+height: 40px;
+
+}
+
+
